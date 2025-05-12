@@ -1,1 +1,1 @@
-Bu proje, Google'ın Generative AI modellerini kullanarak basit bir sohbet botu oluşturmayı amaçlamaktadır. Proje, Python programlama dili ve Gradio kütüphanesi kullanılarak geliştirilmiştir. Chatbot, kullanıcıdan aldığı metin girdilerine yanıtlar üretir.
+Bu proje, Google'ın Generative AI modellerini kullanarak basit bir sohbet botu oluşturmayı amaçlamaktadır. Proje, Python programlama dili ve Gradio kütüphanesi kullanılarak geliştirilmiştir. Chatbot, kullanıcıdan aldığı metin girdilerine yanıtları üretir.
